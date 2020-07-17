@@ -62,7 +62,7 @@ tolerate that less than 2 nodes are invalid. And there is extra computation and 
 
 the advanced version of the Simple strategy and the trade-off is lower the Simple.
 
-### Infocomm(Regenerating Code)
+### Regenerating Code([Network Coding for Distributed Storage Systems](https://arxiv.org/pdf/cs/0702015.pdf))
 
 ![](.\Pic\infocomm_thumb.png)
 
