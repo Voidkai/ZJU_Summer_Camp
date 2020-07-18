@@ -19,6 +19,16 @@ Optimize **the number of disk** reads needed to repair a single last node
 > 1. Locality of codeword symbols
 > 2. Rate-distance-locality tradeoffs.
 
+Data locality $r$ : all data symbals have locality r.
+
+All-symbol locality $r$: all symbols have locality r.
+
+
+
+#### Locally Decodable/ Testable Codes
+
+
+
 ### Reliability
 
 > 1. Beyond minimum distance: Maximum recoverability.
