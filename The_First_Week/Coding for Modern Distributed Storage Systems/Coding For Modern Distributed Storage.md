@@ -46,7 +46,7 @@ The balance between the Code Rate ( storage efficiency) and Data Recovery
 
 ### Replication(副本策略)
 
-![](.\Pic\replication_thumb.png)
+![replication_thumb](.\Pic\replication_thumb.png)
 
 Usually as the HDFS, there are two copies.
 
@@ -56,7 +56,7 @@ Disadvantage: More space needed to store the data.
 
 ### Simple(简单策略)
 
-![](.\Pic\simple_thumb.png)
+![simple_thumb](.\Pic\simple_thumb.png)
 
 Data: A & B
 
@@ -66,7 +66,7 @@ tolerate that less than 2 nodes are invalid. And there is extra computation and 
 
 ### NCCloud
 
-![](.\Pic\nccloud_thumb.png)
+![nccloud_thumb](.\Pic\nccloud_thumb.png)
 
 
 
@@ -74,11 +74,11 @@ the advanced version of the Simple strategy and the trade-off is lower the Simpl
 
 ### Regenerating Code([Network Coding for Distributed Storage Systems](https://arxiv.org/pdf/cs/0702015.pdf))
 
-![](.\Pic\infocomm_thumb.png)
+![infocomm_thumb](.\Pic\infocomm_thumb.png)
 
 ### RAID5
 
-![](.\Pic\raid5.png)
+![raid5](.\Pic\raid5.png)
 
  
 
