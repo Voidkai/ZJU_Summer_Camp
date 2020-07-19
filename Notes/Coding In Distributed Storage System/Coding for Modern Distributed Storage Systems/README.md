@@ -16,7 +16,7 @@ Metric: Number of disk reads
 
 Optimize **the number of disk** reads needed to repair a single last node
 
-## Part One:[Locally Repairable Codes](./LRC)
+## Part One:[Local Repairable Codes](./Local Repairable Codes)
 
 ### 1.1 Locality
 
