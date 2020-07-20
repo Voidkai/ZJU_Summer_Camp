@@ -16,7 +16,7 @@ Metric: Number of disk reads
 
 Optimize **the number of disk** reads needed to repair a single last node
 
-## Part One:[Local Repairable Codes](./Local Repairable Codes)
+## Part One: [Local Repairable Codes](./Local Repairable Codes)
 
 ### 1.1 Locality
 
@@ -75,3 +75,5 @@ In any linear code with information locality $r$:  $$ n-k \geq [\frac{k}{r}] + d
 > 2. Constructions of Maximally Recoverable LRCS
 
 
+
+## Part Two ： Regenerating Codes
