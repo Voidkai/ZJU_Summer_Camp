@@ -1,6 +1,6 @@
 # Local Reconstruction Codes
 
-> The Local Reconstruction Codes(LRC) is mentioned firstly in a paper called **Erasure Coding in Windows Azure Storage**
+> The Local Reconstruction Codes(LRC) is mentioned firstly in a paper called **[Erasure Coding in Windows Azure Storage](../../../Papers/erasure codeing in WAS.pdf)**
 
 ## Introduction
 
