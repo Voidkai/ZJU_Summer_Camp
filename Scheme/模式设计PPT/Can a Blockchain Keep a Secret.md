@@ -27,7 +27,7 @@ Can a Blockchain Keep a Secret
 2. 在节点发出*single* 消息前，节点都是保持其匿名性
     - 因此攻击者无法定位这些委员会节点从而攻击这些节点。
 3. 怎样在委员会节点不知道对方身份的前提下分享密钥：
-    - 需要一小部分节点去恢复secret，因此恶意节点也获得了密钥。
+    - 需要一小部分节点去恢复密钥，因此恶意节点也获得了密钥。
     - cyprographic sledgehammers of witness encryption and or obfuscation
     - "committe votes to open the secret"
 
